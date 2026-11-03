@@ -29,13 +29,13 @@ Academic project – source code uploaded to GitHub.
 ## Screenshots
 
 ### Dashboard
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](dashboard.png)
 
 ### Add Expense
-![Add Expense](Screenshots/add-expense.png)
+![Add Expense](add_expense.png)
 
 ### Expenses
-![Expenses](Screenshots/expenses.png)
+![Expenses](expenses.png)
 
 ### AI Analysis
-![AI Analysis](Screenshots/ai-analysis.png)
+![AI Analysis](ai_analysis.png)
