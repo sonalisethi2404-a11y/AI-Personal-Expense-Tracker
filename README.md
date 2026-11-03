@@ -26,3 +26,16 @@ Sonali Dandapani Sethi
 
 ## Project Status
 Academic project – source code uploaded to GitHub.
+## Screenshots
+
+### Dashboard
+![Dashboard](Screenshots/dashboard.png)
+
+### Add Expense
+![Add Expense](Screenshots/add-expense.png)
+
+### Expenses
+![Expenses](Screenshots/expenses.png)
+
+### AI Analysis
+![AI Analysis](Screenshots/ai-analysis.png)
